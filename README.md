@@ -14,6 +14,7 @@ O projeto está organizado da seguinte forma:
 
 - **base-de-dados-challenge-1**: Pasta contendo os arquivos CSV com os dados de vendas de cada loja.
 - **Análise das Bases de Dados.ipynb**: Notebook Jupyter contendo todo o código e análises realizadas.
+- **Perfilamento do Pandas**: Notebook Jupyter contendo um relatório geral de todas as lojas usando a biblioteca `ydata-profiling`.
 
 ## Gráficos e Insights 📉
 O notebook contém diversos gráficos gerados a partir da análise dos dados, como:
